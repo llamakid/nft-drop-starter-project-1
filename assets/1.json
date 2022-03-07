@@ -1,0 +1,19 @@
+{
+	"name": "Sheep 1",
+	"symbol": "",
+	"image": "1.png",
+	"properties": {
+	  "files": [
+		{
+		  "uri": "1.png",
+		  "type": "image/png"
+		}
+	  ],
+	  "creators": [
+		{
+		  "address": "CMshtiAUKLCVcRD3WC1YPEJU5NgJF8g2SHmZ8YhNQDa9",
+		  "share": 100
+		}
+	  ]
+	}
+  }
